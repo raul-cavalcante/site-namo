@@ -1,0 +1,42 @@
+body{
+    background-color: #D1ABAA;
+  }
+  
+  header{
+    min-width: 320px;
+    max-width: 800px;
+    height: 50px;
+    text-align: center;
+    background-color: #D1ABAA;
+    margin: auto;
+    position: sticky;
+    margin: 10px 20px;
+    top: 1px;
+    border-radius: 10px;
+  }
+  main{
+    background-color: white;
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
+  border-radius: 30px;
+  }
+  
+  main p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  article{
+    padding: 20px;
+  }
+  
+  main img{
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  footer{
+    text-align: center;
+    margin: 10px;
+  }
